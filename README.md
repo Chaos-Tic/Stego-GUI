@@ -1,8 +1,8 @@
 # Stego-GUI
-<h1>Cachez & extrayez facilement des fichiers à l'intérieur d'autres fichiers</h1>
-
-<img width="744" height="589" alt="image" src="https://github.com/user-attachments/assets/3910a754-f15a-4b5a-ab42-fbfbedba693e" />
-<img width="744" height="589" alt="image" src="https://github.com/user-attachments/assets/1836dc36-66e0-4fa7-82ba-e77046705201" />
+<h1>Easily hide and extract files inside other files</h1>
+<p>Now comes with 2 languages supported : English, French</p>
+<img width="748" height="586" alt="image" src="https://github.com/user-attachments/assets/8ea2fa67-6a67-4acb-b22f-0745359cdf1f" />
+<img width="748" height="586" alt="image" src="https://github.com/user-attachments/assets/a94fcbf7-1ce4-4acb-ab81-5f3b7951b5f4" />
 
 <p>
 1. sudo bash install_requirements.sh</br>
